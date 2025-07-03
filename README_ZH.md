@@ -13,7 +13,7 @@
 - [如何贡献](#如何贡献)
 
 ## 项目介绍
-[SeaTunnel](https://github.com/gogs/gogs) 是一个非常易用、超高性能的分布式数据集成平台，支持实时海量数据同步。
+[SeaTunnel](https://github.com/apache/seatunnel) 是一个非常易用、超高性能的分布式数据集成平台，支持实时海量数据同步。
 
 **为什么需要 SeaTunnel**
 SeaTunnel专注于数据集成和数据同步，主要旨在解决数据集成领域的常见问题：
