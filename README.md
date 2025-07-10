@@ -24,7 +24,7 @@ SeaTunnel focuses on data integration and synchronization, addressing common cha
 - **Complex Technology Stacks:** Enterprises use diverse technical components, necessitating custom synchronization programs for each, complicating development.
 - **Difficult Management and Maintenance:** Offline and real-time synchronization often rely on different underlying technologies (Flink/Spark), requiring separate development and management.
 
-This project provides the open-source image [**SeaTunnel**](https://marketplace.huaweicloud.com/hidden/contents/964ecab4-703f-40bd-b062-7961d3b866a1#productid=OFFI1148938068398186496), pre-installed with SeaTunnel and its runtime environment, along with deployment templates. Follow the guide to start your "out-of-the-box" experience!
+This project provides the open-source image [**SeaTunnel**](https://marketplace.huaweicloud.com/intl/hidden/contents/de158faf-93d0-40ea-99bf-596592d43f7f), pre-installed with SeaTunnel and its runtime environment, along with deployment templates. Follow the guide to start your "out-of-the-box" experience!
 
 > **System Requirements:**
 > - CPU: 2GHz or higher
