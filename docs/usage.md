@@ -2,7 +2,7 @@
 
 # 一、商品链接
 
-[SeaTunnel分布式数据集成平台]()
+[SeaTunnel分布式数据集成平台](https://marketplace.huaweicloud.com/hidden/contents/964ecab4-703f-40bd-b062-7961d3b866a1#productid=OFFI1148938062823956480)
 
 # 二、商品说明
 
