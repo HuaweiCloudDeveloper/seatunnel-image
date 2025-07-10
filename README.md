@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">SeaTunnel Distributed Data Integration Platform</h1>
   <p align="center">
-    <strong>English</strong> | <a href="README_zh.md">简体中文</a>
+    <strong>English</strong> | <a href="README_ZH.md">简体中文</a>
   </p>
 
 ## Table of Contents
