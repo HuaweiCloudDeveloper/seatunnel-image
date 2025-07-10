@@ -24,7 +24,7 @@ SeaTunnel focuses on data integration and synchronization, addressing common cha
 - **Complex Technology Stacks:** Enterprises use diverse technical components, necessitating custom synchronization programs for each, complicating development.
 - **Difficult Management and Maintenance:** Offline and real-time synchronization often rely on different underlying technologies (Flink/Spark), requiring separate development and management.
 
-This project provides the open-source image [**SeaTunnel**](), pre-installed with SeaTunnel and its runtime environment, along with deployment templates. Follow the guide to start your "out-of-the-box" experience!
+This project provides the open-source image [**SeaTunnel**](https://marketplace.huaweicloud.com/hidden/contents/964ecab4-703f-40bd-b062-7961d3b866a1#productid=OFFI1148938068398186496), pre-installed with SeaTunnel and its runtime environment, along with deployment templates. Follow the guide to start your "out-of-the-box" experience!
 
 > **System Requirements:**
 > - CPU: 2GHz or higher
@@ -38,7 +38,7 @@ This project provides the open-source image [**SeaTunnel**](), pre-installed wit
 
 | Image Specification                  | Features Description                                        | Notes |
 |-------------------------------------|------------------------------------------------------------|-------|
-| [SeaTunnel-2.3.10-Kunpeng-v1.0]() | Installed and deployed on Kunpeng Server + Huawei Cloud EulerOS 2.0 64bit |       |
+| [SeaTunnel-2.3.10-Kunpeng](https://github.com/HuaweiCloudDeveloper/seatunnel-image/tree/SeaTunnel-2.3.10-Kunpeng) | Installed and deployed on Kunpeng Server + Huawei Cloud EulerOS 2.0 64bit |       |
 
 ## Getting Help
 - For more questions, contact us via [issues](https://github.com/HuaweiCloudDeveloper/seatunnel-image/issues) or the service support of the specified product on Huawei Cloud Marketplace.
