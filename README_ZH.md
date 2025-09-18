@@ -24,7 +24,7 @@ SeaTunnel专注于数据集成和数据同步，主要旨在解决数据集成�
 - **技术栈复杂：** 企业使用的技术组件不同，用户需要针对不同组件开发相应的同步程序来完成数据集成。
 - **管理和维护困难：** 受限于底层技术组件（Flink/Spark）不同，离线同步和实时同步往往需要分开开发和管理，增加了管理和维护的难度。
 
-本项目提供的开源镜像商品 [**SeaTunnel**](https://marketplace.huaweicloud.com/hidden/contents/964ecab4-703f-40bd-b062-7961d3b866a1#productid=OFFI1148938068398186496)，已预先安装 SeaTunnel 及其相关运行环境，并提供部署模板。快来参照使用指南，轻松开启“开箱即用”的高效体验吧。
+本项目提供的开源镜像商品 [**SeaTunnel**](https://marketplace.huaweicloud.com/contents/964ecab4-703f-40bd-b062-7961d3b866a1#productid=OFFI1148938068398186496)，已预先安装 SeaTunnel 及其相关运行环境，并提供部署模板。快来参照使用指南，轻松开启“开箱即用”的高效体验吧。
 
 > **系统要求如下：**
 > - CPU: 2GHz 或更高
